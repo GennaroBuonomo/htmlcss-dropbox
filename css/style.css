@@ -67,7 +67,7 @@ h1 {
 
 .bg-blue {
   background-color: #b4d0e6;
-  height: 700px;
+  height: 625px;
 }
 
 .row {
@@ -85,6 +85,12 @@ h1 {
   margin-left: 40%;
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+.jumbotron {
+  object-fit: contain;
+  height: 430px;
+  width: 65%;
 }
 
 .icone-40 {
