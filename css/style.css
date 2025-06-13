@@ -42,6 +42,14 @@ header {
   margin: 10px;
 }
 
+.bnt-2 {
+  color: #fff;
+  background-color: #0061fe;
+  border: 1px solid #0061fe;
+  margin: 10px;
+  padding: 10px;
+}
+
 /*Main*/
 .Container-big {
   max-width: 1500px;
@@ -54,7 +62,7 @@ h1 {
   font-size: 70px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
-  margin: 15px 10px;
+  margin: 15px;
 }
 
 .bg-blue {
@@ -67,6 +75,24 @@ h1 {
   flex-wrap: wrap;
 }
 
+.text-40 {
+  margin-left: 40%;
+  font-size: 20px;
+}
+
+.bnt-2 {
+  font-size: 20px;
+  margin-left: 40%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.icone-40 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 40%;
+  margin-top: 50px;
+}
 
 /*Misure*/
 .col-100 {
