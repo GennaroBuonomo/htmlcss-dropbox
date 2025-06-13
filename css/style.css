@@ -50,6 +50,7 @@ header {
   padding: 10px;
 }
 
+
 /*Main*/
 .Container-big {
   max-width: 1500px;
@@ -65,9 +66,17 @@ h1 {
   margin: 15px;
 }
 
+
 .bg-blue {
   background-color: #b4d0e6;
-  height: 625px;
+  height: 600px;
+  margin-bottom: 8%;
+}
+
+.bg-golden {
+  background-color: aquamarine;
+  padding: 20px;
+  margin-top: 4%;
 }
 
 .row {
@@ -89,8 +98,8 @@ h1 {
 
 .jumbotron {
   object-fit: contain;
-  height: 430px;
-  width: 65%;
+  height: 353px;
+  width: 62%;
 }
 
 .icone-40 {
@@ -103,19 +112,27 @@ h1 {
 /*Misure*/
 .col-100 {
   width: 100%;
-  height: 250px;
 }
 
 .col-60 {
   width: 60%;
-  height: 450px;
 }
 
 .col-40 {
   width: 40%;
 }
 
+.py-20 {
+  padding-bottom: 20px;
+}
+
 /*Bordi*/
 .border-black {
   border: 1px solid black;
+}
+
+/*Main 2*/
+.container-small {
+  max-width: 1200px;
+  margin: 0 auto;
 }
