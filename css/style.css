@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 /*Header*/
 header {
   background-color: #fff;
@@ -126,6 +130,10 @@ h1 {
   padding-bottom: 20px;
 }
 
+.p-20 {
+  padding: 20px;
+}
+
 /*Bordi*/
 .border-black {
   border: 1px solid black;
@@ -135,4 +143,26 @@ h1 {
 .container-small {
   max-width: 1200px;
   margin: 0 auto;
+}
+
+h2 {
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  margin-left: 20%
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.col-30 {
+  width: 300px;
+  margin: 30px;
+}
+
+.text-center {
+  text-align: center;
+  max-width: 10px 10px;
 }
