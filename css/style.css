@@ -85,6 +85,7 @@ h1 {
   flex-wrap: wrap;
 }
 
+
 .text-40 {
   margin-left: 40%;
   font-size: 20px;
@@ -115,6 +116,10 @@ h1 {
   width: 100%;
 }
 
+.col-50 {
+  width: 500px;
+}
+
 .col-60 {
   width: 60%;
 }
@@ -136,12 +141,29 @@ h1 {
 }
 
 .mb-20 {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+.mgl-20 {
+  margin-left: 20px;
 }
 
 .col-30 {
   width: 300px;
-  margin: 40px;
+  margin: 20px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.ml-20 {
+  margin-bottom: 20px;
+}
+
+
+.marg-bt {
+  margin-bottom: 42%;
 }
 
 .col-hr {
@@ -169,7 +191,7 @@ h2 {
 }
 
 .justify-content-center {
-  justify-content: center;
+  justify-content: space-between;
 }
 
 ul li {
