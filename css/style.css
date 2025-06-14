@@ -306,3 +306,21 @@ footer {
 .bg-white {
   color: #fff;
 }
+
+.mp-29 {
+  font-size: 25px;
+  padding: 9px;
+  margin-bottom: 20px;
+}
+
+.hr-footer {
+  margin-top: 50px;
+  width: 100px;
+  margin-left: 11%;
+  margin-bottom: 50px;
+}
+
+.p-footer {
+  margin-left: 11%;
+  margin-top: 50px;
+}
