@@ -175,6 +175,19 @@ h1 {
   margin-bottom: 20px;
 }
 
+.col-24 {
+  width: 240px;
+}
+
+.coll-20 {
+  width: 350px;
+  margin-top: 16%;
+}
+
+.ml-10 {
+  margin-left: 20px;
+}
+
 .margin-top {
   margin-top: 12%;
 }
@@ -264,9 +277,32 @@ a {
 }
 
 .bnt-4 {
+  background-color: #fff;
   font-size: 20px;
   border: 1px solid black;
   margin: 10px;
   padding: 12px;
   margin-left: 24px;
+}
+
+.photo-col {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+
+.h3-style {
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+
+/*Footer*/
+footer {
+  background-color: black;
+  padding: 200px;
+  margin-top: 25%;
+}
+
+.bg-white {
+  color: #fff;
 }
